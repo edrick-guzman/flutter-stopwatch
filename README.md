@@ -1,6 +1,6 @@
 # flutter_timer
 
-A new Flutter project.
+A simple flutter project with the basic implementation of stateful widget.
 
 ## Getting Started
 
